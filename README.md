@@ -15,8 +15,7 @@ React • JavaScript • Tailwind CSS • Vite
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
+git clone https://github.com/zeustheking/portfolio-react.git
+cd portfolio-react
 npm run dev
 ```
